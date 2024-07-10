@@ -1,0 +1,11 @@
+Nota: installa nodejs per poter utilizzare il comando npm nel terminale
+
+cd = change directory (scrivere cd e il nome della directory in cui si vuole spostare la shell)
+cd .. = torna alla directory precedente
+cd ..\.. = torna alla directory precedente alla precedente
+cls = clear shell (pulisce il terminale da tutto il codice passato)
+npm = Node Package Manager (gestore di pacchetti da poter installare nel framework)
+npm init = crea un package.json (file di configurazione per il progetto)
+npm install express --save = installa express (framework per creare un server) e lo salva
+npm install nodemon --save-dev = installa nodemon (server che si avvia automaticamente)
+
