@@ -9,3 +9,13 @@ npm init = crea un package.json (file di configurazione per il progetto)
 npm install express --save = installa express (framework per creare un server) e lo salva
 npm install nodemon --save-dev = installa nodemon (server che si avvia automaticamente)
 
+---------------------------------------------------------------------------------------------------
+Per inizzializzare l'app svelte e utilizzare il framework seguire i seguenti 
+comandi nel terminale:
+---------------------------------------------------------------------------------------------------
+cd gestionale
+cd gestionale-main
+npm install
+npm run dev -- --open
+
+
