@@ -10,6 +10,23 @@ npm install express --save = installa express (framework per creare un server) e
 npm install nodemon --save-dev = installa nodemon (server che si avvia automaticamente)
 
 ---------------------------------------------------------------------------------------------------
+Per creare un App svelte basterà aprire la cartella dedicata su visual di dove si vuole salvare tutto
+il codice e all'interno del terminale inserire la seguente sintassi:
+
+cd "cartella dedicata"
+npm create vite
+Inserire il nome dell'App
+seleziona "Svelte"
+secondo linguaggio "JavaScript"
+
+Fatto ciò basterà seguire le istruzioni che riporterà il terminale
+
+npm install
+npm run dev -- --open
+
+
+
+---------------------------------------------------------------------------------------------------
 Per inizzializzare l'app svelte e utilizzare il framework seguire i seguenti 
 comandi nel terminale:
 ---------------------------------------------------------------------------------------------------
