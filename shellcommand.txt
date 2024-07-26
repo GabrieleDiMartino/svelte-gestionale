@@ -24,8 +24,6 @@ Fatto ciò basterà seguire le istruzioni che riporterà il terminale
 npm install
 npm run dev -- --open
 
-
-
 ---------------------------------------------------------------------------------------------------
 Per inizzializzare l'app svelte e utilizzare il framework seguire i seguenti 
 comandi nel terminale:
