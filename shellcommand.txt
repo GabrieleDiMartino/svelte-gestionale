@@ -33,4 +33,11 @@ cd gestionale-main
 npm install
 npm run dev -- --open
 
+---------------------------------------------------------------------------------------------------
+Se i file .svelte vengono rilevati da Visual Studio Code come errore inserire nel terminale
+la seguente riga di comando per eliminare l'errore
+
+npm install @sveltejs/adapter-auto
+
+
 
