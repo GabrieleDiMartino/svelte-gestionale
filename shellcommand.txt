@@ -39,5 +39,16 @@ la seguente riga di comando per eliminare l'errore
 
 npm install @sveltejs/adapter-auto
 
+---------------------------------------------------------------------------------------------------
+All'interno della console una volta eseguito il codice ci sono delle shortcuts
+
+  Shortcuts
+  press r + enter to restart the server
+  press u + enter to show server url
+  press o + enter to open in browser
+  press c + enter to clear console
+  press q + enter to quit
+
+Comandi da eseguire dopo l'esecuzione di npm run dev -- --open
 
 
